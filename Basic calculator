@@ -19,4 +19,4 @@ elif oper =="%":
 else:
     print("Invalid operator!")
 
-#if you see any problems try fixing them with AI and i will solve the soon
+#if you see any problems try fixing them with AI and i will solve them soon
