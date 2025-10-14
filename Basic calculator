@@ -1,0 +1,22 @@
+#Basic calculator in python
+
+#First we want two numbers to calculate.
+#Then the user selects what operation should the calculator do(eg. 1 + 1 | 6 * 7).
+#And we will use the if statements to make the calculator calculate.
+
+number_1 = float(input("Enter the first number: )) #First number user input
+number_2 = float(input("Enter the second number: )) #Second number user input
+oper = input("Enter an operator(eg. +, -, *, %): ") #Operator to use
+
+if oper == "+":
+    print(number_1 + number_2)
+elif oper == "-":
+    print(number_1 - number_2)
+elif oper == "*":
+    print(number_1 * number_2)
+elif oper =="%":
+    print(number_1 % number_2)
+else:
+    print("Invalid operator!")
+
+#if you see any problems try fixing them with AI and i will solve the soon
