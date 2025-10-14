@@ -5,7 +5,7 @@ I recommend using Pycharm from Jetbrains.
 Pycharm is an IDE for writing python code
 
 VS Code is good too 
-I use it for other programming languages!🧑‍💻
+but I use it for other programming languages!🧑‍💻
 
 
 And that's all! 
