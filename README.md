@@ -7,7 +7,5 @@ Pycharm is an IDE for writing python code
 VS Code is good too 
 but I use it for other programming languages!🧑‍💻
 
-
-And that's all! 
-I will update the projects and the README.md sometimes.😊
-
+I also recommend if you want color codes for html, css, python(tkinter/pyqt6) etc,
+you should go to https://htmlcolorcodes.com
